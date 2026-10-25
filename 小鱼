@@ -1,0 +1,3 @@
+cd ~/Documents/deepseek-harness/ai-pet
+git remote add origin https://github.com/你的用户名/仓库名.git
+git push -u origin HEAD
